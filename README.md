@@ -50,26 +50,17 @@ I'm a B.E. Information Technology student at the University Institute of Enginee
 
 ## 📊 GitHub Stats
 
-![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshit-chauhan-1&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Project One** | Short description of what it does | Node.js, PostgreSQL |
-| **Project Two** | Short description of what it does | JavaScript, Express |
-| **Game Project** | Short description of your game | Unity / Godot |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit-chauhan-1&layout=compact&theme=tokyonight)
 
 ---
+
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/akshit-chauhan-0b598242b?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chauhan.akshit009@gmail.com)
 
 ---
 
